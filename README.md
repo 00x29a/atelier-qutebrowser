@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/qutebrowser-dracula-theme.git dracula
+    $ git clone https://github.com/00x29a/atelier-qutebrowser.git atelier
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/qutebrowser.git) option and unzip.
+Download using the [GitHub .zip download](https://github.com/00x29a/atelier-qutebrowser.git) option and unzip.
 
 #### Activating theme
 
@@ -17,15 +17,15 @@ Download using the [GitHub .zip download](https://github.com/dracula/qutebrowser
 - In your [qutebrowser config.py file](https://www.qutebrowser.org/doc/help/configuring.html#configpy), include the following:
 
 ```python
-import dracula.draw
+import atelier.draw
 
 # Load existing settings made via :set
 config.load_autoconfig()
 
-dracula.draw.blood(c, {
+atelier.draw.estuary(c, {
     'spacing': {
-        'vertical': 6,
-        'horizontal': 8
+        'vertical': 2,
+        'horizontal': 2
     }
 })
 ```
