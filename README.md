@@ -1,5 +1,7 @@
 ### [qutebrowser](https://www.qutebrowser.org/) [atelier](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/) colorschemes
 
+![Screenshot](./screenshot.png)
+
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
