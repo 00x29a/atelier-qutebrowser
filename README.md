@@ -1,4 +1,4 @@
-### [qutebrowser](https://www.qutebrowser.org/) [atelier](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/)
+### [qutebrowser](https://www.qutebrowser.org/) [atelier](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/) colorschemes
 
 #### Install using Git
 
@@ -13,7 +13,7 @@ Download using the [GitHub .zip download](https://github.com/00x29a/atelier-qute
 #### Activating theme
 
 - Find your *[qutebrowser configuration directory](https://www.qutebrowser.org/doc/help/configuring.html#configpy)* (see e.g. `:version` in qutebrowser). This folder should be located at the "config" location listed on qute://version, which is typically ~/.config/qutebrowser/ on Linux, ~/.qutebrowser/ on macOS, and %APPDATA%/qutebrowser/config/ on Windows.
-- Move the repository folder to `dracula` inside the configuration directory.
+- Move the repository folder to `atelier` inside the configuration directory.
 - In your [qutebrowser config.py file](https://www.qutebrowser.org/doc/help/configuring.html#configpy), include the following:
 
 ```python
