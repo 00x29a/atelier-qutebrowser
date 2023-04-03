@@ -1,4 +1,4 @@
-### [qutebrowser](https://www.qutebrowser.org/)
+### [qutebrowser](https://www.qutebrowser.org/) [atelier](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/)
 
 #### Install using Git
 
